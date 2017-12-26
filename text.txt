@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A4F-ACF2
+
+ Directory of C:\Users\Srikanth.P\Desktop\New folder
+
+12/26/2017  06:10 PM    <DIR>          .
+12/26/2017  06:10 PM    <DIR>          ..
+12/26/2017  06:10 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  129,752,076,288 bytes free
